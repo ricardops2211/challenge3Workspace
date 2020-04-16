@@ -1,0 +1,14 @@
+<html app='chrome.exe' title='Test documentos y registros' /><webctrl parentid='cuestiones1' tag='TABLE' /><webctrl idx='1' tag='TR' />
+
+
+checkbutton and answer
+
+answer
+<html app='chrome.exe' title='Test documentos y registros' />
+<webctrl parentid='cuestiones1' tag='TABLE' />
+<webctrl tableRow='3' tableCol='3' />
+
+
+checkbutton
+<html app='chrome.exe' title='Test documentos y registros' />
+<webctrl tag='CANVAS' tableCol='2' tableRow='3' />
